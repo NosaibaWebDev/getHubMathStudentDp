@@ -1,0 +1,8 @@
+const mathGetHubUsers = [
+  {
+    "login": "Nosaiba Mahamid",
+    "id": 1,
+    "avatar_url": "https://avatars.githubusercontent.com/u/127453568?v=4",
+    "html_url": "https://github.com/NosaibaWebDev"
+  }
+];
